@@ -1,0 +1,14 @@
+C:\Users\duldul\source\repos\website\bin\website.dll.config
+C:\Users\duldul\source\repos\website\bin\website.dll
+C:\Users\duldul\source\repos\website\bin\website.pdb
+C:\Users\duldul\source\repos\website\obj\Debug\website.csproj.AssemblyReference.cache
+C:\Users\duldul\source\repos\website\obj\Debug\website.csproj.CoreCompileInputs.cache
+C:\Users\duldul\source\repos\website\obj\Debug\website.dll
+C:\Users\duldul\source\repos\website\obj\Debug\website.pdb
+C:\Users\duldul\Desktop\website\bin\website.dll.config
+C:\Users\duldul\Desktop\website\bin\website.dll
+C:\Users\duldul\Desktop\website\bin\website.pdb
+C:\Users\duldul\Desktop\website\obj\Debug\website.csproj.AssemblyReference.cache
+C:\Users\duldul\Desktop\website\obj\Debug\website.csproj.CoreCompileInputs.cache
+C:\Users\duldul\Desktop\website\obj\Debug\website.dll
+C:\Users\duldul\Desktop\website\obj\Debug\website.pdb

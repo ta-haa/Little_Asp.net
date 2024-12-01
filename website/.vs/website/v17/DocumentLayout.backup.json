@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\duldul\\Desktop\\website\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|C:\\Users\\duldul\\Desktop\\website\\userpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|solutionrelative:userpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|c:\\users\\duldul\\desktop\\website\\userpage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|solutionrelative:userpage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|C:\\Users\\duldul\\Desktop\\website\\userpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|solutionrelative:userpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|c:\\users\\duldul\\desktop\\website\\userpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|solutionrelative:userpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|c:\\users\\duldul\\desktop\\website\\userafterlogin.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|solutionrelative:userafterlogin.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|c:\\users\\duldul\\desktop\\website\\userafterlogin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|solutionrelative:userafterlogin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|c:\\users\\duldul\\desktop\\website\\userafterlogin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|solutionrelative:userafterlogin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|c:\\users\\duldul\\desktop\\website\\userafterlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|solutionrelative:userafterlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|c:\\users\\duldul\\desktop\\website\\userafterlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|solutionrelative:userafterlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|c:\\users\\duldul\\desktop\\website\\userafterlogin.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|solutionrelative:userafterlogin.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|c:\\users\\duldul\\desktop\\website\\logout.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|solutionrelative:logout.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|c:\\users\\duldul\\desktop\\website\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|solutionrelative:logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|c:\\users\\duldul\\desktop\\website\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|solutionrelative:logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|c:\\users\\duldul\\desktop\\website\\adminpage.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|solutionrelative:adminpage.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|c:\\users\\duldul\\desktop\\website\\adminpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|solutionrelative:adminpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|c:\\users\\duldul\\desktop\\website\\adminpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|solutionrelative:adminpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|c:\\users\\duldul\\desktop\\website\\adminpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|solutionrelative:adminpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|c:\\users\\duldul\\desktop\\website\\adminpage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|solutionrelative:adminpage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|c:\\users\\duldul\\desktop\\website\\adminpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|solutionrelative:adminpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|c:\\users\\duldul\\desktop\\website\\classes\\sha256converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|solutionrelative:classes\\sha256converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|c:\\users\\duldul\\desktop\\website\\classes\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264A25DC-4EC0-496B-ABCB-868839CB306B}|website.csproj|solutionrelative:classes\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "userpage.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\duldul\\Desktop\\website\\userpage.aspx.designer.cs",
+              "RelativeDocumentMoniker": "userpage.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\duldul\\Desktop\\website\\userpage.aspx.designer.cs",
+              "RelativeToolTip": "userpage.aspx.designer.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:13:00.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "userafterlogin.Master.designer.cs",
+              "DocumentMoniker": "C:\\Users\\duldul\\Desktop\\website\\userafterlogin.Master.designer.cs",
+              "RelativeDocumentMoniker": "userafterlogin.Master.designer.cs",
+              "ToolTip": "C:\\Users\\duldul\\Desktop\\website\\userafterlogin.Master.designer.cs",
+              "RelativeToolTip": "userafterlogin.Master.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:11:12.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "userafterlogin.Master.cs",
+              "DocumentMoniker": "C:\\Users\\duldul\\Desktop\\website\\userafterlogin.Master.cs",
+              "RelativeDocumentMoniker": "userafterlogin.Master.cs",
+              "ToolTip": "C:\\Users\\duldul\\Desktop\\website\\userafterlogin.Master.cs",
+              "RelativeToolTip": "userafterlogin.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:11:10.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "userafterlogin.Master",
+              "DocumentMoniker": "C:\\Users\\duldul\\Desktop\\website\\userafterlogin.Master",
+              "RelativeDocumentMoniker": "userafterlogin.Master",
+              "ToolTip": "C:\\Users\\duldul\\Desktop\\website\\userafterlogin.Master",
+              "RelativeToolTip": "userafterlogin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-01T06:10:33.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "userafterlogin.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\duldul\\Desktop\\website\\userafterlogin.aspx.designer.cs",
+              "RelativeDocumentMoniker": "userafterlogin.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\duldul\\Desktop\\website\\userafterlogin.aspx.designer.cs",
+              "RelativeToolTip": "userafterlogin.aspx.designer.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:10:21.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "userafterlogin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\duldul\\Desktop\\website\\userafterlogin.aspx.cs",
+              "RelativeDocumentMoniker": "userafterlogin.aspx.cs",
+              "ToolTip": "C:\\Users\\duldul\\Desktop\\website\\userafterlogin.aspx.cs",
+              "RelativeToolTip": "userafterlogin.aspx.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:09:25.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "userafterlogin.aspx",
+              "DocumentMoniker": "C:\\Users\\duldul\\Desktop\\website\\userafterlogin.aspx",
+              "RelativeDocumentMoniker": "userafterlogin.aspx",
+              "ToolTip": "C:\\Users\\duldul\\Desktop\\website\\userafterlogin.aspx",
+              "RelativeToolTip": "userafterlogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-01T06:09:12.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "logout.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\duldul\\Desktop\\website\\logout.aspx.designer.cs",
+              "RelativeDocumentMoniker": "logout.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\duldul\\Desktop\\website\\logout.aspx.designer.cs",
+              "RelativeToolTip": "logout.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:09:10.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "logout.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\duldul\\Desktop\\website\\logout.aspx.cs",
+              "RelativeDocumentMoniker": "logout.aspx.cs",
+              "ToolTip": "C:\\Users\\duldul\\Desktop\\website\\logout.aspx.cs",
+              "RelativeToolTip": "logout.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:09:06.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "logout.aspx",
+              "DocumentMoniker": "C:\\Users\\duldul\\Desktop\\website\\logout.aspx",
+              "RelativeDocumentMoniker": "logout.aspx",
+              "ToolTip": "C:\\Users\\duldul\\Desktop\\website\\logout.aspx",
+              "RelativeToolTip": "logout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-01T06:07:45.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "adminpage.Master.designer.cs",
+              "DocumentMoniker": "C:\\Users\\duldul\\Desktop\\website\\adminpage.Master.designer.cs",
+              "RelativeDocumentMoniker": "adminpage.Master.designer.cs",
+              "ToolTip": "C:\\Users\\duldul\\Desktop\\website\\adminpage.Master.designer.cs",
+              "RelativeToolTip": "adminpage.Master.designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:07:42.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "adminpage.Master.cs",
+              "DocumentMoniker": "C:\\Users\\duldul\\Desktop\\website\\adminpage.Master.cs",
+              "RelativeDocumentMoniker": "adminpage.Master.cs",
+              "ToolTip": "C:\\Users\\duldul\\Desktop\\website\\adminpage.Master.cs",
+              "RelativeToolTip": "adminpage.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:07:41.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "adminpage.Master",
+              "DocumentMoniker": "C:\\Users\\duldul\\Desktop\\website\\adminpage.Master",
+              "RelativeDocumentMoniker": "adminpage.Master",
+              "ToolTip": "C:\\Users\\duldul\\Desktop\\website\\adminpage.Master",
+              "RelativeToolTip": "adminpage.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-01T06:07:34.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "adminpage.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\duldul\\Desktop\\website\\adminpage.aspx.designer.cs",
+              "RelativeDocumentMoniker": "adminpage.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\duldul\\Desktop\\website\\adminpage.aspx.designer.cs",
+              "RelativeToolTip": "adminpage.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:07:32.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "adminpage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\duldul\\Desktop\\website\\adminpage.aspx.cs",
+              "RelativeDocumentMoniker": "adminpage.aspx.cs",
+              "ToolTip": "C:\\Users\\duldul\\Desktop\\website\\adminpage.aspx.cs",
+              "RelativeToolTip": "adminpage.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:07:27.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "adminpage.aspx",
+              "DocumentMoniker": "C:\\Users\\duldul\\Desktop\\website\\adminpage.aspx",
+              "RelativeDocumentMoniker": "adminpage.aspx",
+              "ToolTip": "C:\\Users\\duldul\\Desktop\\website\\adminpage.aspx",
+              "RelativeToolTip": "adminpage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-01T06:07:20.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "sha256converter.cs",
+              "DocumentMoniker": "C:\\Users\\duldul\\Desktop\\website\\classes\\sha256converter.cs",
+              "RelativeDocumentMoniker": "classes\\sha256converter.cs",
+              "ToolTip": "C:\\Users\\duldul\\Desktop\\website\\classes\\sha256converter.cs",
+              "RelativeToolTip": "classes\\sha256converter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:07:11.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "connection.cs",
+              "DocumentMoniker": "C:\\Users\\duldul\\Desktop\\website\\classes\\connection.cs",
+              "RelativeDocumentMoniker": "classes\\connection.cs",
+              "ToolTip": "C:\\Users\\duldul\\Desktop\\website\\classes\\connection.cs",
+              "RelativeToolTip": "classes\\connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:07:03.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "userpage.aspx",
+              "DocumentMoniker": "C:\\Users\\duldul\\Desktop\\website\\userpage.aspx",
+              "RelativeDocumentMoniker": "userpage.aspx",
+              "ToolTip": "C:\\Users\\duldul\\Desktop\\website\\userpage.aspx",
+              "RelativeToolTip": "userpage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2023-07-11T18:21:16.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "userpage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\duldul\\Desktop\\website\\userpage.aspx.cs",
+              "RelativeDocumentMoniker": "userpage.aspx.cs",
+              "ToolTip": "C:\\Users\\duldul\\Desktop\\website\\userpage.aspx.cs",
+              "RelativeToolTip": "userpage.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwEkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-15T19:58:05.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "userpage.Master",
+              "DocumentMoniker": "C:\\Users\\duldul\\Desktop\\website\\userpage.Master",
+              "RelativeDocumentMoniker": "userpage.Master",
+              "ToolTip": "C:\\Users\\duldul\\Desktop\\website\\userpage.Master",
+              "RelativeToolTip": "userpage.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2023-07-11T18:21:28.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
